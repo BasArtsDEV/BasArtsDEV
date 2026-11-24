@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&center=true&vCenter=true&lines=Ga%C3%ABl+%E2%80%A2+D%C3%A9veloppeur+Backend+Java+%2F+PHP+%7C+Fullstack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&center=true&vCenter=true&lines=Ga%C3%ABl+%E2%80%A2+Java+%2F+PHP+Backend+Developer+%7C+Full+Stack" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,15 +22,15 @@
 <br/>
 
 <div align="center">
-  <p>Hi, I'm <b>Gaël</b>, étudiant en 3ème année de BUT Informatique & Développeur Backend Java / PHP</p>
-  <p>🔭 À la recherche d'un stage de fin d'études (14 à 16 semaines) à partir de <b>Janvier 2027</b></p>
-  <p>💻 Passionné par la conception d'API, l'architecture logicielle et l'optimisation backend</p>
-  <p>📫 Comment me contacter : <a href="mailto:contact@lefevregael.fr">contact@lefevregael.fr</a></p>
+  <p>Hi, I'm <b>Gaël</b>, 3rd-year BUT Computer Science student & Java / PHP Backend Developer</p>
+  <p>🔭 Looking for an internship (14 to 16 weeks) starting in <b>January 2027</b></p>
+  <p>💻 Passionate about API design, software architecture, and backend optimization</p>
+  <p>📫 How to reach me: <a href="mailto:contact@lefevregael.fr">contact@lefevregael.fr</a></p>
 </div>
 
 ---
 
-<h2 align="center">🔥 Langages, Frameworks & Outils 🔥</h2>
+<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,php,cs,py,html,css,react,dotnet,mysql,postgres,mongodb,git,docker,maven,linux&perline=8" alt="Skills" />
@@ -38,7 +38,7 @@
 
 ---
 
-<h2 align="center">⚡ Statistiques GitHub ⚡</h2>
+<h2 align="center">⚡ GitHub Statistics ⚡</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BasArtsDEV&theme=dark" alt="GitHub Streak" />
