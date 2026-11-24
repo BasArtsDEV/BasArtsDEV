@@ -23,9 +23,9 @@
 
 <div align="center">
   <p>Hi, I'm <b>Gaël</b>, 3rd-year BUT Computer Science student & Java / PHP Backend Developer</p>
-  <p>🔭 Looking for an internship (14 to 16 weeks) starting in <b>January 2027</b></p>
-  <p>💻 Passionate about API design, software architecture, and backend optimization</p>
-  <p>📫 How to reach me: <a href="mailto:contact@lefevregael.fr">contact@lefevregael.fr</a></p>
+  <p>Looking for an internship (14 to 16 weeks) starting in <b>January 2027</b></p>
+  <p>Passionate about API design, software architecture, and backend optimization</p>
+  <p>How to reach me: <a href="mailto:contact@lefevregael.fr">contact@lefevregael.fr</a></p>
 </div>
 
 ---
