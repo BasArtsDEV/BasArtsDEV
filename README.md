@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ga%C3%ABl-lef%C3%A8vre-a91ab6354" target="_blank">
+  <a href="https://www.linkedin.com/in/gael-lefevre-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://lefevregael.fr" target="_blank">
