@@ -32,8 +32,8 @@
   <p>🔭 I’m currently working on ...</p>
   <p>🌱 I’m currently learning ...</p>
   <p>💻 I love writing code and learning new technologies</p>
-  <p>💬 Ask me anything about from <a href="https://github.com/TON_PSEUDO_GITHUB">Here</a></p>
-  <p>📫 How to reach me: <a href="mailto:ton.email@exemple.com">ton.email@exemple.com</a></p>
+  <p>💬 Ask me anything about from <a href="https://github.com/BasArtsDEV">Here</a></p>
+  <p>📫 How to reach me: <a href="mailto:ton.email@exemple.com">contact@lefevregael.fr</a></p>
 </div>
 
 ---
@@ -41,7 +41,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,django,js,html,css,sass,react,redux,angular,git,dotnet,postgres,vscode,visualstudio,java,unity,androidstudio,github,mysql,npm,php,linux&perline=13" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,react,git,dotnet,postgres,vscode,visualstudio,java,github,mysql,npm,php,linux&perline=13" alt="Skills" />
 </div>
 
 ---
@@ -49,6 +49,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TON_PSEUDO_GITHUB&theme=dark" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BasArtsDEV&theme=dark" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BasArtsDEV&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
