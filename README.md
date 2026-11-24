@@ -33,7 +33,7 @@
 <h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,cs,py,html,css,react,dotnet,mysql,postgres,mongodb,git,docker,maven,linux&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=java,symfony,php,cs,py,html,css,react,dotnet,mysql,postgres,mongodb,git,docker,maven,linux&perline=8" alt="Skills" />
 </div>
 
 ---
